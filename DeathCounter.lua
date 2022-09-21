@@ -1,5 +1,5 @@
 -- CODE BITCHES!
--- Version 4
+-- Version 5
 
 -- From what I can tell, this just tracks the Combat Event Log
 local f = CreateFrame("Frame")

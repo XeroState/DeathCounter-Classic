@@ -1,7 +1,6 @@
 ## Interface: 30400
 ## Title: |cfffe00f1XeroState's Death Counter|r
-## Notes: Custom Death Counter
-## Version: 4
+## Version: 5
 ## SavedVariables: FreesiaDeathCount
 ## SavedVariablesPerCharacter: DeathCount, DeathPlayer
 DeathCounter.lua
